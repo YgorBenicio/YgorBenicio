@@ -1,5 +1,4 @@
 
-cobrinha.yml:
 name: Generate snake animation
 
 on:
@@ -10,7 +9,7 @@ on:
 
   push:
     branches:
-    - main
+    - master
 
 jobs:
   generate:
@@ -23,7 +22,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: YgorBenicio
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
 
