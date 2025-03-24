@@ -1,32 +1,32 @@
-## Olá! Meu nome é Ygor Benicio!
 
-
-
-- 🔭 Atualmente estou procurando o primeiro emprego.
-- 🌱 Eu atualmente estou estudando python.
-- 📧 Contate-me no email: ygorbenicio1704@gmail.com
-- 😄 Ele/Dele
-
-<a href="[https://github.com/YgorBenicio/github-readme-stats](https://github-readme-stats.vercel.app/api?username=YgorBenicio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YgorBenicio&show_icons=true&theme=dark"/>
-</a>
-<a href="https://github.com/YgorBenicio/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YgorBenicio&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark"/>
-</a>
-
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<p align="center">Estudante de Enharia de computação no Centro Universitário Augusto Motta . Atualmente estudo Python no curso da EBAC, e estou a procura do primeiro emprego.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
-  ##
- 
-<div> 
- <a href="https://discord.gg/7gjpgxJh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ygorbenicio1704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="(https://www.linkedin.com/in/ygor-benicio-2a182a2ba/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ygorbenicio1704@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]((https://www.linkedin.com/in/ygor-benicio-2a182a2ba/))
+
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img  alt="Rafa-Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img width="8" />
 </div>
 
+#
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
