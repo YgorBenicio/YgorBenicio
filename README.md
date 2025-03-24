@@ -7,7 +7,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 
-- 👨‍💻 [My projects](https://github.com/Mucharski?tab=repositories)
+- 👨‍💻 [My projects](https://github.com/YgorBenicio?tab=repositories)
 
 #
 
