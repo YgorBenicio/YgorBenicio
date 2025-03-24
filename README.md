@@ -11,7 +11,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ygorbenicio1704@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]((https://www.linkedin.com/in/ygor-benicio-2a182a2ba/))
 
-
+#
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
