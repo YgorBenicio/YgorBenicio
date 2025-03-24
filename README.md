@@ -28,3 +28,5 @@
   <a href = "mailto:ygorbenicio1704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="(https://www.linkedin.com/in/ygor-benicio-2a182a2ba/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/rafaballerini/YgorBenicio/blob/output/github-contribution-grid-snake.svg)
