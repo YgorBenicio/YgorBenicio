@@ -1,5 +1,5 @@
 
-<p align="center">Estudante de Enharia de computação no Centro Universitário Augusto Motta . Atualmente estudo Python no curso da EBAC, e estou a procura do primeiro emprego.
+<p align="center">Estudante de Engenharia de computação no Centro Universitário Augusto Motta . Atualmente estudo na EBAC no curso de cientista de dados, e estou a procura do primeiro emprego.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 #
