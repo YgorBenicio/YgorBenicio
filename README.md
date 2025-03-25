@@ -40,7 +40,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Principais Techs ~</h3>
 
 <div align="left">
-  <img  alt="ygor-Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  alt="ygor-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width="8" />
 </div>
 
