@@ -44,14 +44,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img  alt="Rafa-Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  alt="ygor-Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width="8" />
 </div>
 
 #
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YgorBenicio/YgorBenicio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YgorBenicio/YgorBenicio/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YgorBenicio/YgorBenicio/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygorbenicio/ygorbenicio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygorbenicio/ygorbenicio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ygorbenicio/ygorbenicio/output/github-contribution-grid-snake.svg">
 </picture>
