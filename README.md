@@ -25,7 +25,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img 
       align="left" 
       alt="GitHub-Stats" 
-      height="120" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygorbenicio&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
