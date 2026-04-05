@@ -16,6 +16,22 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=YgorBenicio&show_icons=true&theme=dark" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorBenicio&layout=compact&theme=dark" />
+</p><p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=YgorBenicio&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub-Stats" 
+      height="140" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorBenicio&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
 
 <br/>
