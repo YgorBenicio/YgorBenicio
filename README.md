@@ -13,10 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YgorBenicio&show_icons=true&theme=dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorBenicio&layout=compact&theme=dark" />
-</p><p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
