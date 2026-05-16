@@ -14,7 +14,7 @@ Tenho foco em análise de dados, SQL, Python e visualização com Power BI e Tab
 
 ### 🚀 Sobre mim
 
-- 📊 Focado em Ciência de Dados  
+- 📊 Focado em Ciência de Dados e Engenharia de Dados
 - 🧠 Aprendendo SQL, Python e análise de dados  
 - 📈 Interesse em transformar dados em decisões  
 - 💼 Buscando estágio na área de dados  
