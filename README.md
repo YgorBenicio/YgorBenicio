@@ -4,7 +4,7 @@
 Estudante de Engenharia de Computação (UNISUAM) <br>
 Em formação em Ciência de Dados pela EBAC <br><br>
 
-Buscando minha primeira oportunidade em Dados (Data Analyst / Data Science). <br>
+Buscando minha primeira oportunidade em Dados (Data Analyst / Data Science / Data engineer). <br>
 Tenho foco em análise de dados, SQL, Python e visualização com Power BI e Tableau.
 </p>
 
