@@ -30,7 +30,7 @@ Tenho foco em análise de dados, SQL, Python e visualização com Power BI e Tab
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YgorBenicio&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Ygorbenicio&theme=tokyonight" height="180"/>
 </p>
 
 ---
