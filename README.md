@@ -12,22 +12,22 @@ Tenho foco em análise de dados, SQL, Python e visualização com Power BI e Tab
 
 <img align="right" alt="study" height="180px" src="./src/study.gif">
 
-### 🚀 Sobre mim
+### Sobre mim
 
-- 📊 Focado em Ciência de Dados e Engenharia de Dados
-- 🧠 Aprendendo SQL, Python e análise de dados  
-- 📈 Interesse em transformar dados em decisões  
-- 💼 Buscando estágio na área de dados  
-
----
-
-### 💻 Projetos
-
-👉 [Clique aqui para ver meus projetos](https://github.com/YgorBenicio?tab=repositories)
+- Focado em Ciência de Dados e Engenharia de Dados
+- Aprendendo SQL, Python e análise de dados  
+- Interesse em transformar dados em decisões  
+- Buscando estágio na área de dados  
 
 ---
 
-### 📊 Estatísticas
+###  Projetos
+
+[Clique aqui para ver meus projetos](https://github.com/YgorBenicio?tab=repositories)
+
+---
+
+###  Estatísticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ygorbenicio&theme=tokyonight" height="180"/>
@@ -35,7 +35,7 @@ Tenho foco em análise de dados, SQL, Python e visualização com Power BI e Tab
 
 ---
 
-### 🛠️ Data Stack
+###  Data Stack
 
 <div align="center">
 
