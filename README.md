@@ -63,7 +63,7 @@ Tenho foco em análise de dados, SQL, Python e visualização com Power BI e Tab
 
 ---
 
-### 📈 Contribuições
+###  Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YgorBenicio/YgorBenicio/output/github-contribution-grid-snake-dark.svg">
